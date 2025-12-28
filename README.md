@@ -1,4 +1,4 @@
-# Class 01 : Introduction and Recap
+# Class 03 : Language Foundations
 
 ## Google Drive
 
